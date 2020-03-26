@@ -1,5 +1,5 @@
 ---
-title: "Coronavirus in Kenya"
+title: "Corona virus in Kenya"
 author: "Carlvin.M."
 output: 
   flexdashboard::flex_dashboard:
@@ -232,15 +232,15 @@ plotly::plot_ly(data = df_daily %>% dplyr::filter(date >= "2020-03-12")) %>%
   )
 ```
 
-Row
------------------------------------------------------------------------
+<!-- Row -->
+<!-- ----------------------------------------------------------------------- -->
 
-<!-- Comparison -->
-<!-- ======================================================================= -->
+Comparison
+=======================================================================
 
 
-<!-- Column {data-width=400} -->
-<!-- ------------------------------------- -->
+Column {data-width=400}
+-------------------------------------
 
 
 ### **Daily new cases (East African Countries)**
@@ -265,7 +265,7 @@ daily_confirmed %>%
     y = ~Kenya,
     size = ~Kenya,
     type = "scatter",
-    #mode = "lines+markers",
+    mode = "lines+markers",
     name = "Kenya"
   ) %>%
   plotly::add_trace(
@@ -447,7 +447,7 @@ The data and dashboard are refreshed on a daily basis.
 
 The raw data is pulled from the Johns Hopkins University Center for Systems Science and Engineering (JHU CCSE) Coronavirus [repository](https://github.com/RamiKrispin/coronavirus-csv){target="_blank"}.
 
-You can [reach out](https://beyondrawdata.rbind.io/#contact). For any comments or feedback.
+[Reach out](https://beyondrawdata.rbind.io/#contact) for any comments or feedback.
 
 **Update**
 
