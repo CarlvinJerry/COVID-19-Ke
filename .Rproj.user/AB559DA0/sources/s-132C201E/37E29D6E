@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585242695814.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "37E29D6E",
+    "lastKnownWriteTime" : 7234308714602589807,
+    "last_content_update" : 1585242695814,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "F047F128",
+        "caption" : "coronavirus",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=coronavirus&cache_key=F047F128",
+        "displayedObservations" : "31360",
+        "environment" : "",
+        "expression" : "coronavirus",
+        "object" : "coronavirus",
+        "preview" : "0",
+        "totalObservations" : "31360",
+        "variables" : "7"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

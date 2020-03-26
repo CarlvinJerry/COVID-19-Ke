@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585238833622.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1041821302",
+    "id" : "6EF8986C",
+    "lastKnownWriteTime" : 1585259450,
+    "last_content_update" : 1585259450313,
+    "path" : "J:/Personalprojects/ShinyApps/COVID19_Ke/CovidKe.Rmd",
+    "project_path" : "CovidKe.Rmd",
+    "properties" : {
+        "cursorPosition" : "5,16",
+        "docOutlineVisible" : "1",
+        "last_setup_crc32" : "132C201Ef52845c6",
+        "scrollLine" : "0",
+        "tempName" : "Untitled3"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

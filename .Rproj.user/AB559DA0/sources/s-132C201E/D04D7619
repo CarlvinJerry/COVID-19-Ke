@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585248489625.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D04D7619",
+    "lastKnownWriteTime" : 3894039676874744864,
+    "last_content_update" : 1585248489625,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "1644237B",
+        "caption" : "dayta",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=dayta&cache_key=1644237B",
+        "displayedObservations" : "128",
+        "environment" : "",
+        "expression" : "dayta",
+        "object" : "dayta",
+        "preview" : "0",
+        "totalObservations" : "128",
+        "variables" : "7"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
